@@ -1,5 +1,7 @@
+import Router from "./routes";
+
 function App() {
-    return <div className="text-red-500">123</div>;
+    return <Router />;
 }
 
 export default App;

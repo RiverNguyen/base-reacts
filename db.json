@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "123122 upadte",
+      "image": "https://picsum.photos/id/1/200/300",
+      "price": "131",
+      "description": "23123",
+      "id": 1
+    },
+    {
+      "name": "1123123 update",
+      "image": "123123",
+      "price": "1231",
+      "description": "23123123",
+      "featured": true,
+      "id": 2
+    }
+  ]
+}
